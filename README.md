@@ -3,7 +3,6 @@ Exploratory data analysis (EDA) on Spotify dataset in Python with Pandas, Matplo
 
 Explored and quantified Spotify's music data to gain insights and correlations among the diiferent song attributes using heatmap and regression plots with Python libraries and functions.
 
-Open this notebook in [nbviewer](https://nbviewer.org/github/kshitiz311/Spotify-EDA/blob/main/Spotify%20Exploratory%20Data%20Analysis.ipynb).
 
 ## Dataset
 Dataset used can be downloaded from kaggle 
